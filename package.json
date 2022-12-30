@@ -9,7 +9,7 @@
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "16.5.0",
-    "react-native": "0.57.2",
+    "react-native": "0.57.8",
     "react-native-check-box": "^2.1.5",
     "react-native-elements": "^0.19.1",
     "react-native-scrollable-tab-view": "^0.8.0",
@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
-    "jest": "23.6.0",
+    "jest": "29.3.1",
     "metro-react-native-babel-preset": "0.48.0",
     "react-test-renderer": "16.5.0"
   },
